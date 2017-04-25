@@ -1,0 +1,35 @@
+/*Background color buttons*/
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+/* Pizza buttons */
+
+.clickable {
+  cursor: pointer;
+  color: #fff;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.secret-text {
+  display: none;
+}
+
+.secret-text2 {
+  display: none;
+}
+
+.secret-text3 {
+  display: none;
+}
